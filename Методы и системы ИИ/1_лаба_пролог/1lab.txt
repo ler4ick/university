@@ -1,7 +1,0 @@
-product(chips,ashan,100).
-product(gym,oksana,200).
-product(van,ashan,300).
-product(gym,ashan,400).
-product(chips,ashan,500).
-product(shreck,ashan,600).
-product(fish,oksana,100).
